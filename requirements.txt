@@ -1,0 +1,16 @@
+flask
+flask-smorest
+python-dotenv
+
+
+#      sql alchemy
+sqlalchemy
+flask-sqlalchemy
+
+
+#JWT
+flask-jwt-extended
+
+
+#for hashing pass
+passlib
